@@ -1,0 +1,14 @@
+URL: https://ensun.io/search/mystery-shopping/spain
+Capturado: 2026-10-01T05:46:40.971Z
+Estado HTTP: 429
+Título: Vercel Security Checkpoint
+
+----- TEXTO DE LA PÁGINA -----
+
+Estamos verificando tu navegador
+
+Punto de control de seguridad de Vercel
+
+|
+
+fra1::1790833601-qoGw6YLK9yQEhe4MtcdVNAD3xMPzX9E0

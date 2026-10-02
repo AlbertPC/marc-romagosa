@@ -1,0 +1,15 @@
+URL: https://www.malt.es/s?q=mystery%20shopper
+Capturado: 2026-10-01T05:46:52.551Z
+Estado HTTP: 403
+Título: Un momento…
+
+----- TEXTO DE LA PÁGINA -----
+
+www.malt.es
+Verificación de seguridad en curso
+
+Este sitio web utiliza un servicio de seguridad para protegerse contra bots maliciosos. Esta página se muestra mientras el sitio web verifica que tú no eres un bot.
+
+Ray ID: a4392b5f0ecd0636
+Rendimiento y seguridad de Cloudflare
+Privacidad

@@ -1,0 +1,602 @@
+URL: https://www.freelancer.es/jobs/mystery-shopper/
+Capturado: 2026-10-01T05:45:32.948Z
+Estado HTTP: 200
+Título: Trabajos y concursos de Freelance | Encuentra trabajo hoy | Freelancer
+
+----- TEXTO DE LA PÁGINA -----
+
+	Cómo funciona Buscar trabajos
+Iniciar sesión Registrarse
+
+Encontrar trabajos
+
+Contrata freelancers
+
+Obtener ideas
+
+Acerca de
+
+Recursos
+
+Principales Trabajos
+Contrata a un freelancer Gana dinero haciendo trabajos freelance
+Freelancer  Trabajos  Explorar todos los trabajos  1
+Buscar palabra clave
+¿Dónde?
+Buscar
+Mis búsquedas recientes
+Filtrar por:
+Presupuesto
+Proyectos de precio fijo
+a
+Proyectos por hora
+a
+Duración
+Todas las duraciones
+Menos de una semana
+1 semana a 4 semanas
+1 mes a 3 meses
+3 meses a 6 meses
+Más de 6 meses / en curso
+Sin especificar
+Concursos
+a
+Tipo
+Empleos locales
+Trabajos destacados
+Trabajos de reclutador
+Trabajos a tiempo completo
+Habilidades
+.NET 5.0/6
+.NET
+PHP
+HTML
+CSS
+enter skills
+Idiomas
+English
+Spanish
+German
+French
+Portuguese
+enter skills
+Estado del trabajo
+Todos los trabajos abiertos
+Todos los trabajos abiertos y cerrados
+Más reciente primero
+Presupuesto menor primero
+Presupuesto mayor primero
+Ofertas/participaciones más bajas
+Ofertas/participaciones más altas
+5,000 trabajos encontrados
+ 
+ 
+1
+ 
+2
+ 
+3
+ 
+ 
+Freelancer para generación de leads y agendamiento de demos – Sistema Contact Center
+6 días left  Verificado
+
+# Freelancer para generación de leads y agendamiento de demos – Sistema Contact Center ## Descripción del proyecto Estamos buscando un freelancer con experiencia en **ventas B2B, generación de leads y prospección comercial** para ayudarnos a conseguir potenciales clientes para un **sistema de Contact Center** dirigido a empresas que manejan atención al cliente, ventas, soporte telefónico o equipos de agentes. El objetivo principal del proyecto es **identificar empresas potencialmente interesadas, contactar a los responsables de la toma de decisiones y conseguir reuniones/demos comerciales** para presentar nuestra solución. No buscamos únicamente una base de datos de empresas. Buscamos una persona que pueda realizar activamen...
+
+Programación de Citas Desarrollo Empresarial Cold Calling Servicios al cliente Email Marketing Generación de Prospectos Lead Qualification Estudios de mercado Ventas de SaaS Telemarketing
+	
+€3 / hr Oferta promedio
+3 ofertas
+Fotografía Soportes Publicitarios Guayaquil
+6 días left  Verificado
+
+Necesito un fotógrafo de Guayaquil que realice un relevamiento completo de todos los soportes publicitarios ubicados en un radio de 200 metros de cada una de las siguientes zonas: • Aeropuerto Internacional Guayaquil – Av. de las Américas y área de pre-embarque • Víctor Emilio Estrada y Etano, Plaza Triángulo • Calle 13E NE, entorno de Ágora Medical Center Alcance del trabajo • Cubrir todo tipo de soporte (carteles de carretera, mupis, vallas digitales, etc.). • Tomar entre 3 y 5 fotos nítidas por cada soporte, mostrando ángulo general, cercanía y detalles clave. • Incluir etiquetado de cada archivo con la correspondiente de dirrecion a fin de localizar su ubicacion Entregables...
+
+Entrada de datos Procesamiento de Imágenes Edición de fotos Fotografía
+LOCAL
+	
+€170 Oferta promedio
+2 ofertas
+Scraping Bases Públicas Python
+6 días left  Verificado
+
+Necesito automatizar la extracción periódica de datos públicos con Python y transformarlos en conjuntos listos para análisis interno. El objetivo principal es contar con un script robusto de web scraping que capture la información relevante, la limpie, la normalice y la almacene en un formato estructurado (CSV o base SQL) manteniendo la trazabilidad de cada registro. Alcance general • Desarrollar un scraper en Python (Scrapy o BeautifulSoup + Requests; Selenium sólo si es indispensable) capaz de recorrer las fuentes indicadas y salvar bloqueos comunes como paginación, cambios de DOM o limitaciones de tráfico. • Diseñar lógica de actualización trimestral: al ejecutarse, el código debe identifi...
+
+Amazon Web Services AWS Lambda BeautifulSoup Procesamiento de datos Python Scrapy Selenium Arquitectura de software SQL Extracción de datos web
+	
+€885 Oferta promedio
+94 ofertas
+Buscamos Especialista de Marketing
+6 días left  Verificado
+
+Buscamos Especialista de Marketing En DRONE PLUS estamos buscando un/a especialista de marketing para colaborar con nosotros de forma mensual y encargarse de la gestión y ejecución de las principales acciones de marketing de la empresa. Buscamos una persona que pueda asumir el día a día del marketing, mantener una línea de comunicación coherente con nuestra marca y ayudarnos a mejorar nuestra presencia online y captación de clientes. Funciones principales Redes sociales * Planificación del contenido mensual. * Creación de guiones para vídeos de Instagram y TikTok. * Mantener y evolucionar el estilo de contenido que estamos utilizando actualmente. * Publicación y gestión de contenido. * Creación ...
+
+Community Management Creación de Contenido Marketing de Contenidos Redacción Marketing Digital Email Marketing Marketing en Instagram Marketing Estrategia de Marketing Marketing en redes sociales
+	
+€445 Oferta promedio
+29 ofertas
+Reels Mensuales para Logística
+6 días left
+
+Necesito a alguien que se encargue de producir 12 reels cada mes sobre temas variados del sector logístico. Busco piezas breves y ágiles que mantengan un tono dinámico pero serio, alineado con la identidad de nuestra marca. Objetivo Queremos aumentar la visibilidad de la marca en redes sociales mostrando nuestra experiencia y el día a día de la logística moderna. Alcance y entregables • Edición de video vertical en formato compatible con Instagram y TikTok (1080×1920, 15-30 segundos). • Integración de subtítulos • Entrega semanal (3 reels por semana) para mantener un flujo constante de publicaciones. • Ajustes menores incluidos hasta que el reel quede listo para publicarse. Valoraré exper...
+
+Adobe Premiere Pro After Effects Animación CapCut Creación de Contenido Marketing en redes sociales Edición de video Servicios de video
+	
+€98 Oferta promedio
+49 ofertas
+Full Video Testimonial Production
+6 días left
+
+Tengo una asesoría online de fitness y, durante el próximo mes, necesito externalizar todo el ciclo de producción de seis entrevistas-testimonio con clientes satisfechos. Qué espero de ti • Coordinar directamente con cada cliente la fecha y hora de la sesión (formato remoto). • Conducir la entrevista online siguiendo la guía de preguntas que te entregaré —la estoy ultimando, por lo que solo tendrás que aplicarla, no desarrollarla. • Editar cada grabación como episodio estilo podcast listo para YouTube (intro, outro, mejora de audio, corrección de color, cortes naturales, etc.). • Extraer al menos seis reels/shorts verticales con subtítulos por entrevista, optimizados para Instagr...
+
+After Effects Animación Edición de Audio Ingeniería de Audio Final Cut Pro Edición de Podcasts Edición de video Servicios de video
+	
+€350 Oferta promedio
+39 ofertas
+Representante de Ventas B2B en Ortopedia para Colombia, Perú o México
+6 días left  Verificado
+
+Busco un vendedor freelance con experiencia considerable en el sector de artículos ortopédicos para abrir y cultivar mercado en Colombia, Perú o México. El enfoque será 100 % B2B: necesitamos prospectar distribuidores medianos y grandes, calificarlos y coordinar reuniones conmigo o con mi equipo hasta dejar el lead listo para cerrar la compra. Qué espero de ti: • Conoces el portafolio típico de ortopedia (férulas, inmovilizadores, órtesis, etc.) y sabes hablar con gerentes de compras y jefes de línea. • Tienes tu propia metodología de prospección: bases de datos, LinkedIn, llamadas en frío o la mezcla que mejor funcione. • Organizas las citas, confirmas la asistencia del decis...
+
+Gestión de Cuentas Marketing B2B Desarrollo Empresarial Cold Calling Generación de Prospectos Análisis de Mercado Estudios de mercado Ventas Gestión de Ventas Promoción de Ventas
+	
+€828 Oferta promedio
+8 ofertas
+Socio de Marketing Digital a Largo Plazo
+6 días left
+
+Estoy listo para renovar la forma en que mi negocio atrae y fideliza clientes, y busco un socio que pueda crecer con nosotros a largo plazo. Mi prioridad inmediata es una estrategia de marketing más sólida y basada en datos. Si bien tengo ideas sobre redes sociales, email marketing y SEO, mantengo abierta la combinación exacta de canales para que podamos enfocarnos en lo que realmente marca la diferencia después de una auditoría exhaustiva de mi posición actual. Este es el flujo de colaboración que tengo en mente: comenzamos con un análisis profundo de mis activos de marca existentes, información sobre mi audiencia y la competencia. A partir de ahí, diseñarás una estrategia coherente a largo plazo que estab...
+
+Publicidad Analytics Marketing Digital Email Marketing Marketing por Internet Marketing SEO Marketing en redes sociales
+	
+€16 / hr Oferta promedio
+43 ofertas
+Especialista en Email Marketing con IA para hoteles | Email Rocket Agency
+6 días left
+
+Especialista en Email Marketing con IA para hoteles | Email Rocket Agency Descripción: Email Rocket Agency es una agencia de email marketing para hoteles, enfocada en aumentar reservas directas y reducir su dependencia de las OTAs (Booking, Expedia). Buscamos al especialista que ejecute las campañas y automatizaciones de nuestros clientes. Cómo funciona el equipo: Yo (fundador) consigo y cierro a los hoteles. Antes de que tú entres a trabajar en un hotel, nuestro growth partner prepara una mini auditoría del hotel: revisa su web, sus reseñas, su comunicación actual con huéspedes, y detecta oportunidades concretas (por ejemplo, un correo de reservas mal configurado, falta de formularios de suscripción, servicios que no se ve...
+
+ActiveCampaign Redacción Email Marketing Marketing por Internet Klaviyo Construcción de enlaces Mailchimp Marketing SEO
+	
+€342 Oferta promedio
+35 ofertas
+Ilustración PNG Minimalista
+6 días left
+
+Necesito una ilustración en formato PNG que siga un estilo con cultura Mexicana para temática de bodas, día de muertos, navidad, XV años para imprimir en DTF UV para termos en específico. El archivo debe tener fondo transparente y resolverse a alta resolución para que pueda usarlo sin pérdida de calidad en distintos tamaños. Entrego libertad creativa en cuanto al concepto, siempre que la pieza mantenga: • Líneas limpias y pocos elementos visuales. • Uso de una paleta de colores limitada y coherente. • Composición equilibrada, fácil de reconocer incluso a pequeña escala. Formato y entregables: – PNG 300 dpi con fondo transparente. – Archivo fuente editable (AI, SVG o simila...
+
+Adobe Illustrator Diseño creativo Arte Digital Diseño gráfico Illustrator Diseño de logotipos Photoshop Diseño Visual
+	
+€71 Oferta promedio
+102 ofertas
+Videos Cortos Comerciales Meta Ads
+6 días left  Verificado
+
+Busco a un videógrafo-editor que domine el español para producir videos reales de 15 – 30 s orientados a campañas de Meta Ads (Facebook e Instagram). Qué necesito: • Idea y guion breve enfocado a campañas publicitarias. • Grabación o selección de imágenes reales que conecten con un público de 30 a 65 años. • Edición dinámica con ritmo comercial, texto en pantalla legible, música libre de derechos y cierre con llamada a la acción. • Entrega en formato vertical 9:16 y, si es posible, versión cuadrada 1:1, ambas optimizadas para meta-ads. El objetivo principal es lanzar anuncios que impulsen la campaña y generen conversiones, por lo que valoro exper...
+
+Publicidad Creación de Contenido Anuncios en Facebook Marketing en Instagram Marketing en redes sociales Anuncios de Video Edición de video Producción de video
+	
+€35 Oferta promedio
+35 ofertas
+Sistema Courier Web y Móvil
+6 días left
+
+Busco desarrollar un sistema integral para mi operador logístico que gestione todo el ciclo de envíos courier internacionales, desde la pre-alerta de llegada hasta la entrega final al cliente. Necesito que la solución incluya: • Aplicación web responsiva y app móvil nativa o híbrida para iOS y Android. • Módulo de seguimiento de paquetes en tiempo real con visualización de estatus y eventos clave. • Gestión de inventario: control de bultos en bodega, historiales y auditorías. • Notificaciones automáticas vía correo, push y SMS configurables por evento. • Integración con APIs de compañías de envío para obtener datos de tracking y tarifas. -Dashb...
+
+Android Desarrollo de API Gestión de inventario iOS iPhone Desarrollo de apps móviles Integración de Pasarela de Pago PHP Gestión de proyectos Desarrollo Web
+	
+€3184 Oferta promedio
+124 ofertas
+Búscanos una diseñadora y creadora de contenido de habla hispana -- 2
+6 días left  Verificado
+
+¡Hola! Buscamos alguien con ideas originales, creativo y que use las herramientas de ia, como apoyo, no como punto de partida. Si eres creativa, tienes conocimiento de tendencias en redes sociales y dominas la suite de adobe de diseño. ¡Escríbenos!
+
+Adobe Creative Cloud Adobe Illustrator Creación de Contenido con IA Diseño con IA Diseño de folletos Creación de Contenido Identidad corporativa Diseño gráfico Diseño de logotipos Marketing en redes sociales
+	
+€96 Oferta promedio
+51 ofertas
+Atención WhatsApp para Productos
+6 días left
+
+Necesito a una persona que se encargue de responder, por WhatsApp, todas las preguntas que recibimos sobre nuestros productos y servicios. Las consultas provienen tanto de clientes B2C como de contactos B2B, por lo que habrá variedad en el tono y nivel de detalle requerido. Lo esencial del rol: • Responder cada mensaje de forma amable y clara, mostrando paciencia y empatía en cada interacción. • Detectar rápidamente la necesidad del usuario y ofrecer una solución o información precisa en el menor tiempo posible. • Registrar dudas frecuentes y reportar cualquier incidencia o tendencia que pueda ayudarnos a mejorar el servicio. Espero disponibilidad diaria, comunicación proactiva y un estilo de respuesta consistente ...
+
+Gestión de Cuentas Marketing B2B Experiencia del Cliente Retención de Clientes Servicios al cliente Estrategia del Cliente Atención al cliente Gestión de Redes Sociales
+	
+€16 / hr Oferta promedio
+59 ofertas
+Sentinelia alta Ciberseguridad en Rust
+6 días left
+
+Estoy buscando un socio técnico para colaborar en un sistema de ciberseguridad patentado, SISTEMA DE DETECCIÓN Y CONTENCIÓN AUTÓNOMA DE MOVIMIENTO LATERAL (ALC-FL), desarrollado con IA y basado en 23 reivindicaciones de la patente registrada en República Dominicana. Estado real Según el documento “Entrega final Sentinelia 7.1.0”, esto es exactamente lo que se ha probado y superado. 1. Compilación y build Prueba Resultado Target Windows GNU PASS — x86_64-pc-windows-gnu Rust / Cargo PASS — 1.98.0 / 1.98.0 cargo-auditable PASS — 0.7.5 Dependencias Cargo externas PASS — 0 dependencias Reproducibilidad PASS — 2 builds byte-idénticos Validación PE PASS — AMD64 PE32+, ASLR, NX, high-en...
+
+Programación en C Programación en C++ Análisis de Datos Protección de Datos Seguridad de Redes Rust Arquitectura de software Desarrollo de software Ingeniería de Software Ensamblador x86/x64
+	
+€148 Oferta promedio
+50 ofertas
+Soporte WhatsApp para Quejas
+6 días left
+
+Necesito que gestionen la atención al cliente por WhatsApp, con foco específico en la resolución de quejas. Busco a alguien que: • Redacte con claridad y tono empático, manteniendo la imagen de la marca. • Responda de manera oportuna durante un horario part-time previamente acordado. • Clasifique cada conversación, escale incidencias críticas y lleve un registro diario de casos cerrados y pendientes. Proporcionaré guías de respuestas, acceso a nuestro número de WhatsApp Business y un resumen de políticas internas; solo requiero que te conectes de forma remota y comiences de inmediato. Si cuentas con experiencia previa en atención al cliente y te sientes cómodo trabajando desde c...
+
+Gestión de Marca Resolución de Conflictos Experiencia del Cliente Servicios al cliente Atención al cliente Documentación Gestión de tiempo Escritura
+	
+€16 / hr Oferta promedio
+61 ofertas
+Edición profesional de reels
+6 días left
+
+Cuento con material crudo y busco a alguien que lo convierta en reels atractivos y listos para publicar. El objetivo de cada pieza variará: a veces necesitaré clips promocionales de productos o servicios, en otras ocasiones contenido educativo o sencillamente entretenimiento. Trabajo en Instagram, TikTok y Facebook, por lo que necesito que cada reel se adapte al formato, duración y mejores prácticas de cada red social (vertical 1080 × 1920, uso de música en tendencia, subtítulos quemados, buena retención en los primeros segundos, etc.). No persigo un único estilo fijo; según la temática podemos ir desde un look moderno y dinámico hasta algo minimalista o vibrante. Valoro que puedas proponer transiciones...
+
+Adobe Premiere Pro After Effects Animación DaVinci Resolve Final Cut Pro Edición de video Servicios de video
+	
+€22 Oferta promedio
+30 ofertas
+Soporte Ventas WhatsApp Español
+6 días left
+
+Necesito que te encargues, de principio a fin, de la atención al cliente en nuestro canal oficial de WhatsApp. La prioridad es contestar, en perfecto español y con tono cercano pero profesional, todas las consultas sobre información de producto que lleguen a lo largo del día. El trabajo incluye: • Leer cada mensaje entrante en WhatsApp Web o Business. • Responder de inmediato con la información correcta de catálogo, precios y disponibilidad (yo te facilitaré fichas, PDFs y respuestas modelo). • Registrar cada conversación en nuestro pequeño CRM para que el equipo de ventas pueda hacer seguimiento. • Escalar al responsable cualquier duda que salga de las guías que te entregue. Acepto propue...
+
+CRM Experiencia del Cliente Gestión de tiempo
+	
+€25 / hr Oferta promedio
+32 ofertas
+Plantilla Promocional para WhatsApp
+6 días left
+
+Necesito una breve plantilla de mensaje para enviar ofertas y promociones por WhatsApp. Quiero que el texto incluya un marcador de personalización con el nombre del destinatario para que cada cliente sienta que la oferta es exclusiva. El formato debe ser únicamente texto: nada de imágenes ni enlaces, de modo que se lea completo en la vista previa y resulte rápido de copiar y pegar en la plataforma. Entregable esperado: • Un mensaje principal (máx. 250 caracteres) con saludo, oferta y llamado a la acción. • Indicación clara de dónde colocar el nombre del cliente (ej. «Hola {nombre}»). • Dos variaciones opcionales que mantengan la misma estructura pero cambien el tono o la propuesta, para rotar mensaj...
+
+Publicidad Reescritura de artículos Redacción de artículos Branding Redacción Marketing Digital Redacción por encargo Marketing
+	
+€11 / hr Oferta promedio
+19 ofertas
+Extracción y Estructuración de Datos SISPRO (only COLOMBIANS)
+6 días left  Verificado
+
+PROJECT ONLY FOR COLOMBIAN'S FREELANCER 1. Objetivo del Proyecto Necesito freelancer colombiano con acceso verificado y experiencia técnica en la plataforma SISPRO (MIPRES / Cubos de Información) del Ministerio de Salud y Protección Social de Colombia, para realizar la extracción, estructuración y entrega de datos históricos de prescripción de Productos Nutricionales / Alimentos para Propósitos Médicos Especiales (APME). El acceso a los cubos de SISPRO es público y gratuito para cualquier ciudadano colombiano o entidad registrada a través del portal oficial con su cédula/usuario de Mi Seguridad Social. No se requieren licencias pagas ni permisos especiales de IPS/EPS, únicamente conocimientos ...
+
+Análisis de Datos Extracción de Datos Gestión de Datos Procesamiento de datos Visualización de Datos Gestión de Bases de Datos Excel Salud Pública SQL Análisis estadístico
+	
+€120 Oferta promedio
+23 ofertas
+Automatización CRM y campañas inmobiliarias
+6 días left
+
+Trabajo como agente inmobiliario independiente y me apoyo en el CRM Mobilia; sin embargo, buena parte de mi jornada sigue siendo manual. Busco a alguien que diseñe y ponga en marcha un agente de IA que elimine el máximo de tareas repetitivas dentro de mi flujo de trabajo. Objetivos esenciales • Volcado automático de todos los datos de clientes y propiedades en Mobilia. • Grabación de llamadas (entrantes y salientes), anexado al registro correspondiente del CRM e indexación para búsquedas futuras. • Transcripción de cada llamada y generación inmediata de un resumen accionable que cree recordatorios o tareas dentro del propio Mobilia. Campañas y comunicación Manejo campañas de mailing, Wha...
+
+Chatbot con IA Integración de API Automatización CRM Diseño gráfico HTML PHP Diseño de sitios web
+	
+€444 Oferta promedio
+182 ofertas
+Guionista Especializado en Anime/Gaming - YouTube
+6 días left
+
+Guionista para canal de YouTube — Anime/Gaming (español) Busco guionista freelance para videos de YouTube de un canal sobre anime y gaming. Estilo de referencia: video-ensayo en español, tono directo y opinativo, (análisis, nostalgia, debates del fandom). No quiero narración plana: busco guiones con personalidad, hooks fuertes y ritmo pensado para retención. Lo que necesito por guion: - Guion palabra por palabra (español neutro/latino) - Investigación con fuentes citadas (nada de datos inventados) - Timestamps y links de clips sugeridos para el editor - 2-3 opciones de título por video Formatos: Shorts (60-90 segundos) y videos largos (10-15 minutos) Requisitos: - Muestras de guiones de YouTube que hayas escrito (obligatori...
+
+Redacción de contenidos Redacción creativa Investigación Escritura de Guiones Youtube
+	
+€12 Oferta promedio
+9 ofertas
+Rediseño elegante de sitio web
+6 días left
+
+Desearía realizar una renovación completa de mi página web profesional, , desarrollada actualmente en WordPress y alojada en Raiola Networks. La web lleva años en funcionamiento y dispone de contenidos y URLs ya indexados y posicionados en Google. Por este motivo, no deseo simplemente crear una web nueva y sustituir la actual, sino realizar una renovación que preserve, en la medida de lo posible, el posicionamiento SEO adquirido. Mi intención es modernizar completamente el diseño, mejorar la estructura y navegación, reorganizar y actualizar los contenidos y conseguir una web más limpia, actual, rápida y adaptada a dispositivos móviles, manteniendo WordPress como CMS. Me interesa también contar con su crit...
+
+CSS Diseño gráfico HTML SEO Diseño Web Desarrollo Web Diseño de sitios web WordPress
+	
+€948 Oferta promedio
+230 ofertas
+Configuración Segura de Internet
+6 días left
+
+Mi principal necesidad es fortalecer la seguridad de mi conexión a internet. Busco a alguien que revise la infraestructura actual, identifique vulnerabilidades y realice los ajustes necesarios para proteger todos los equipos conectados. Lo que espero: • Diagnóstico inicial del estado de la red, dispositivos y contraseñas. • Configuración o reconfiguración de router, firewall y cualquier punto de acceso Wi-Fi para blindar la red. • Implementación de buenas prácticas: cifrado WPA3 (si el hardware lo permite), segmentación de redes invitadas, actualizaciones de firmware y políticas de acceso. • Pruebas de penetración básicas que confirmen la nueva solidez de la seguridad. • Informe f...
+
+Protección de Datos Incident Response Monitorización de Redes Seguridad de Redes Pruebas de Penetración Gestión de riesgos Security Auditing
+	
+€358 Oferta promedio
+6 ofertas
+Optimizar perfiles LinkedIn e Instagram -- 2
+5 días left  Verificado
+
+Quiero que mi presencia digital arranque con fuerza. Las cuentas deben ser creadas en español nativo. 1. Perfil profesional en LinkedIn Necesito que conviertas mi trayectoria en un relato convincente centrado en mis logros y proyectos. Ya tengo datos clave, pero falta pulir el extracto, seleccionar imágenes de portada y detallar cada hito con las palabras-clave adecuadas para que atraiga nuevas oportunidades. 2. Página de empresa en LinkedIn La compañía donde trabajo también debe brillar. Partiremos de su misión y nos enfocaremos en los servicios ofrecidos, estructurando secciones, banners y llamado a la acción para futuros clientes. 3. Cuenta de Instagram Abriremos un perfil desde cero y lo dejaremos con seis publicaciones...
+
+Creación de Contenido Marketing Digital Diseño gráfico Instagram Linkedin SEO Gestión de Redes Sociales Marketing en redes sociales
+	
+€95 Oferta promedio
+46 ofertas
+Docente Español Avanzado Online
+5 días left
+
+Necesito una maestra de español que imparta clases virtuales a un grupo reducido de adolescentes con nivel avanzado. Quiero un enfoque académico sólido: lecturas seleccionadas, análisis de textos y ejercicios escritos que fortalezcan gramática, estilo y redacción formal. Lo que espero: • Plan didáctico mensual con objetivos claros. • Sesiones en vivo (videoconferencia) dos veces por semana. • Material de lectura y ejercicios escritos originales o adaptados, listos para compartir en PDF/Google Docs. • Retroalimentación individual detallada tras cada tarea y un informe breve de progreso cada cuatro semanas. Metodología preferida: lecturas y ejercicios escritos; los juegos interactivos o audiovisuales p...
+
+Investigación Educativa Traductor de Inglés (EE.UU.) Diseño Instruccional Traductor de español Tutoría de Español Traducción Asistente virtual
+	
+€309 Oferta promedio
+5 ofertas
+Optimización en app "Hospitable" y listings Airbnb
+5 días left  Verificado
+
+Tengo entre cuatro y siete propiedades activas en Airbnb y quiero centralizar por completo su gestión en Hospitable. El trabajo consiste en: Mis anuncios y mis cuentas son en español y se debe redactar en español... • Conectar cada anuncio existente a Hospitable y verificar que la sincronización de calendario e inventario quede sin solapamientos. • Afinar los mensajes automáticos actuales: ya tengo el mensaje de bienvenida, pero necesito que lo revises y lo hagas más persuasivo; además quiero respuestas automáticas a las preguntas frecuentes y recordatorios de salida bien programados. • Publicar dos listings nuevos en una cuenta de Airbnb recién creada, con descripciones que destaquen y fotografías cor...
+
+Airbnb Redacción de contenidos Redacción Servicios al cliente Marketing Digital Administración de propiedades SEO Marketing en redes sociales
+	
+€34 Oferta promedio
+19 ofertas
+Setup redes vacacionales -- 3
+5 días left  Verificado
+
+Cuento con las fotos de tres casas que rento como alojamiento vacacional y necesito dejar listas sus redes sociales principales. Busco a alguien que: Cuentas deben redactarse en Español... • Cree desde cero las cuentas de Instagram, Facebook y TikTok. • Configure biografías, foto de perfil y enlaces de contacto. • Publique los primeros 5 posteos en cada plataforma usando un tono cálido y acogedor. • Combine solo fotos, texto y algunos elementos gráficos decorativos para que el feed luzca atractivo y coherente. • Redacte descripciones detalladas de cada casa, destacando habitaciones, amenidades y la experiencia que ofrezco a los huéspedes. Entrego todas las imágenes originales; tú aportarás la edici&...
+
+Creación de Contenido Redacción Diseño gráfico Instagram Edición de fotos Gestión de Redes Sociales Marketing en redes sociales TikTok
+	
+€27 Oferta promedio
+34 ofertas
+Secretaria Virtual Bilingüe y Organizada
+5 días left  Verificado
+
+Busco una secretaria virtual latina que combine responsabilidad, organización y proactividad para colaborar conmigo a medio tiempo. Las tareas que necesito cubrir son: • Gestión de correos: filtrar, priorizar y responder mensajes en español e inglés manteniendo un tono profesional y cercano. • Organización de documentos: estructurar, nombrar y compartir archivos en Google Drive, con dominio avanzado de carpetas compartidas, permisos y versiones. • Atención al cliente: responder consultas básicas, dar seguimiento a solicitudes y asegurar una comunicación clara y oportuna. Requisitos clave – Bilingüe español-inglés (hablar y escribir con soltura). – Experiencia comprobable en Google Drive ...
+
+Soporte Administrativo Reescritura de artículos Redacción de artículos Traductor de Español Castellano Servicios al cliente Manejo de email Traductor de español Asistente virtual
+	
+€4 / hr Oferta promedio
+9 ofertas
+Impulsa ventas Hotmart Psicología Práctica ESPAÑOL
+5 días left  Verificado
+
+Tengo varios PDF de psicología práctica ya cargados en Hotmart y necesito una estrategia clara que convierta visitas en ventas. Busco a alguien con experiencia demostrable en la plataforma que: • Diseñe y ejecute una estrategia de marketing y ventas específica para Hotmart. • Defina el embudo (landing, checkout, upsell) y la secuencia de correos. • Gestione campañas pagadas (Facebook Ads, Instagram Ads, Google Ads) y las optimice según resultados. • Proponga acciones en redes sociales y programas de afiliados que posicionen el producto ante personas que buscan apoyo psicológico práctico para su vida diaria. • Entregue informes periódicos de métricas (CTR, CPL, ROI) y recomendaciones de a...
+
+Marketing de afiliados Email Marketing Anuncios en Facebook Anuncios de Google Diseño gráfico Marketing por Internet Marketing SEO Marketing en redes sociales Diseño de sitios web
+	
+€112 Oferta promedio
+36 ofertas
+Diseñador/a de Branding y Manuales de Identidad (NATIVE SPANISH ONLY)
+5 días left
+
+¡Hola! Somos un equipo de marketing digital que trabaja con profesionales independientes y emprendedores. Estamos buscando un/a diseñador/a freelance especializado/a en Branding para encargarse de crear la identidad y los Manuales de Comunicación de los clientes que ingresan a nuestro servicio. El trabajo: Cuando un cliente nuevo ingresa, le enviamos formularios detallados. Con esa información, necesitamos que armes un Manual de Comunicación completo. Este manual debe incluir: - Opciones de estilo visual para que el cliente elija. - Paleta de colores y combinaciones de fuentes tipográficas (con opciones). - Logo y sus usos correctos/incorrectos. - Recursos visuales de la marca. (Nosotros te pasamos la info de la marca, tono, don'ts y lineami...
+
+Branding Diseño creativo Design Thinking Diseño gráfico Diseño de logotipos Photoshop Tipografía
+	
+€72 Oferta promedio
+59 ofertas
+Diseñador/a de Carruseles y Placas en Canva (NATIVE SPANISH ONLY)
+5 días left
+
+¡Hola! Somos un equipo de marketing digital que trabaja con profesionales independientes y emprendedores. Estamos buscando un/a diseñador/a freelance para delegar la producción de carruseles y placas estáticas de nuestros clientes. El trabajo: - Utilizamos Canva (se valora mucho tener cuenta Pro) por su facilidad para trabajar de forma colaborativa y compartir editables. El enfoque es 100% funcional y ágil: - Te compartimos un docx con el detalle, textos y estructura de cada pieza, además del respectivo manual de marca de cada cliente. - Vos te encargás de volcarlo a plantillas bien elegidas, adaptándolas al manual de marca y tono de cada cliente. No buscamos diseños hiper-complejos ni rebuscados; priorizamos el buen criterio ...
+
+Branding Canva Creación de Contenido Diseño creativo Marketing de Facebook Diseño gráfico Instagram Marketing en Instagram Marketing en redes sociales Diseño Visual
+	
+€42 Oferta promedio
+44 ofertas
+¡Asecor Academy Necesita Diseñador/a Gráfico/a!
+5 días left  Verificado
+
+En Asecor Academy estamos transformando nuestra presencia digital y buscamos un/a diseñador/a creativo/a, puntual y detallista que se sume al equipo para darle vida a nuestras redes sociales. Si te apasiona el branding visual, crear contenido visualmente impactante y buscas una relación comercial estable por paquetes de entregables, ¡es tu oportunidad de lucir tu portafolio! ¿De qué se trata el rol? Serás la mente visual detrás de nuestros canales digitales. Tu objetivo principal será mantener y escalar la identidad de la marca, adaptándote a nuestro manual de marca, tipografías y paleta de colores existente. Trabajaremos con un flujo dinámico basado en paquetes periódicos de piezas gráficas con un c...
+
+Adobe Illustrator Adobe Photoshop Branding Canva Identidad corporativa Diseño creativo Marketing Digital Diseño gráfico Diseño de logotipos Photoshop
+	
+€70 Oferta promedio
+46 ofertas
+Especialista en CRM Go High Level (GHL) y Automatizaciones
+5 días left  Verificado
+
+¡En Asecor Academy buscamos Especialista Técnico en GoHighLevel (GHL) & Automatizaciones! En Asecor Academy seguimos optimizando e innovando en nuestro ecosistema digital y buscamos a un/a Especialista Técnico en GoHighLevel (GHL) con perfil analítico, resolutivo y orientado a resultados. No buscamos únicamente a un ejecutor de tareas, sino a un técnico con pensamiento estratégico capaz de proponer soluciones eficaces, diagnosticar integraciones, estructurar flujos complejos y asegurar que la tecnología trabaje a favor de la operación. - ¿Cuál será tu misión? Serás responsable de diseñar, optimizar y mantener la arquitectura técnica en GHL, conectar automatizaciones avanza...
+
+Integración de API Automatización CRM Programación de bases de datos Freelance GoHighLevel Make.com n8n Programación Soporte técnico
+	
+€403 Oferta promedio
+58 ofertas
+Especialista en Meta Ads + CRM GoHighLevel + WordPress para empresa fotovoltaica
+5 días left
+
+Especialista en Meta Ads + CRM GoHighLevel + WordPress para empresa fotovoltaica
+
+Instalación de tendedero CRM Marketing Digital GoHighLevel SEO Marketing en redes sociales Diseño de sitios web Desarrollo Web
+	
+€383 Oferta promedio
+83 ofertas
+Diseñador Gráfico Freelance para Campaña Cyber en Cannon Home
+5 días left
+
+Nuestra campaña de Cyber está en marcha y necesito refuerzo inmediato en el equipo de diseño. Cannon Home busca un/a Diseñador/a Gráfico/a Freelance con disponibilidad inmediata para unirse a nuestro equipo de diseño como refuerzo durante la campaña de Cyber. Necesitamos un profesional dinámico/a con capacidad de respuesta rápida para cubrir requerimientos gráficos multidisciplinarios. Las tareas incluirán la creación de diversos materiales visuales para la campaña, tales como banners para web, gráficos para redes sociales, piezas para email marketing y otros activos digitales. El objetivo es asegurar una cobertura eficiente y de alta calidad para todas las necesidades gráficas de la c...
+
+Adobe Creative Cloud Adobe Illustrator Adobe Photoshop Email Marketing Diseño gráfico Illustrator Diseño de logotipos Diseño Visual Diseño Web Diseño de sitios web
+	
+€293 Oferta promedio
+81 ofertas
+Ventas B2B para Servicios de Diseño Web
+5 días left
+
+Busco un freelancer de ventas / comercial B2B para una colaboración a largo plazo enfocada en vender servicios de diseño y desarrollo de páginas web profesionales. Actualmente ofrecemos páginas web de hasta 5 secciones por $1,300 USD, dirigidas principalmente a agentes y empresas inmobiliarias, clínicas dentales y contratistas/empresas de remodelación, especialmente en México y Estados Unidos. ¿Cuál será tu trabajo? Busco una persona que pueda encargarse del proceso comercial: investigar y encontrar prospectos de calidad, contactar a los responsables del negocio, realizar prospección por WhatsApp, correo, llamadas u otros canales disponibles, dar seguimiento a los interesados y cerrar la venta. No buscamos ú...
+
+Marketing B2B Desarrollo Empresarial Generación de Prospectos Ventas Gestión de Cuentas de Ventas Sales Calling Gestión de Ventas Promoción de Ventas
+	
+€106 Oferta promedio
+6 ofertas
+Diseño de posts promocionales urgentes
+5 días left  Verificado
+
+Dispongo de una línea gráfica totalmente definida; ya tengo un archivo maestro en Photoshop (PSD) que sirve de base. Lo que necesito es que hoy mismo lo tomes, apliques tu buen gusto y experiencia comprobable, y me entregues al menos 7 posts promocionales listos para subir a redes sociales. Cada pieza combinará texto y gráficos siguiendo la estética establecida, así que no hay que inventar la identidad, solo trasladarla correctamente a los distintos formatos. El flujo de trabajo que imagino es sencillo: te paso el PSD, indicas cualquier ajuste de copy o layout que consideres necesario, lo apruebo de inmediato y avanzas con el resto para entregar los archivos finales en PSD editable más sus versiones exportadas (PNG o JPG). Para avanzar...
+
+Adobe Creative Cloud Adobe Creative Suite Adobe Illustrator Adobe Photoshop Creación de Contenido Diseño gráfico Diseño de logotipos Photoshop Diseño con Photoshop Marketing en redes sociales
+	
+€22 Oferta promedio
+56 ofertas
+Closer de Ventas High Ticket
+5 días left
+
+Dirijo un programa de entrenamiento online para mujeres de 25 a 40 años y quiero incorporar un closer de ventas especializado en high ticket para aumentar nuestras conversiones. El público llega precualificado y agenda una videollamada; tu misión será guiarlas con empatía, resolver objeciones y cerrar la venta durante esa misma sesión. Requisitos imprescindibles: • Experiencia en ventas directas de productos o servicios premium. • Conocimientos de coaching para detectar motivaciones y acompañar la toma de decisión. • Haber trabajado previamente en el nicho fitness o bienestar femenino. La interacción con las prospectas será exclusivamente por videollamadas, por lo que necesito que domines un tono c...
+
+Optimización de la Tasa de Conversión Experiencia del Cliente Retención de Clientes Servicios al cliente Customer Success Generación de Prospectos Ventas Gestión de Cuentas de Ventas Gestión de Ventas Promoción de Ventas
+	
+€6 / hr Oferta promedio
+11 ofertas
+Sistema de Préstamos Completo
+5 días left
+
+Necesito desarrollar un sistema de préstamos que ofrezca el mismo nivel de funcionalidad que el sitio de referencia (), pero con un diseño totalmente diferente. Quiero una interfaz clásica y profesional que transmita solidez y confianza, apartándose del estilo visual actual de la página mencionada. Qué espero: • Todas las funcionalidades operativas del sitio de referencia (registro y gestión de clientes, flujos de solicitud y aprobación de créditos, cálculo de intereses, paneles de seguimiento, alertas, etc.). • Diseño UI/UX propio, con tipografía sobria, paleta neutra y estructura corporativa. • Arquitectura pensada para crecer: código limpio, bases de datos bien modeladas y docu...
+
+API Django Diseño gráfico HTML Laravel PHP Interfaz de Usuario (UI) Diseño de sitios web
+	
+€11 / hr Oferta promedio
+159 ofertas
+Mujer bilingüe francés-inglés Instagram
+5 días left  Verificado
+
+Busco una mujer con dominio fluido de francés e inglés para atender al público francés que llega a mi cuenta de Instagram. Qué harás • Un día a la semana, responderás los mensajes directos y, cuando sea posible, llamarás por teléfono (prioridad) para resolver dudas y convertir interesados en clientes. • Registrarás en un breve informe los datos de cada contacto, las preguntas recibidas y el resultado de la conversación. • Si alcanzamos los objetivos de conversión, podremos ampliar los días de trabajo. Lo que NO necesito No tendrás que crear ni programar publicaciones en Instagram; tu foco es la comunicación directa y el cierre de ventas. ...
+
+CRM Servicios al cliente Atención al cliente Traductor de Francés Generación de Prospectos Empleo local Ventas Gestión de Ventas Gestión de Redes Sociales
+LOCAL
+	
+€452 Oferta promedio
+4 ofertas
+Diseñador gráfico - Industrial
+5 días left  Verificado
+
+Necesitamos diseñar 3 cajas para un producto alimenticio con un enfoque claramente minimalista. Quiero un aspecto limpio y elegante, tipografía legible y destaque la información clave sin distracciones. Qué esperamos recibir • Dieline funcional de la caja, listo para troquelado. • Arte final en CMYK junto con el archivo editable (AI, PSD o similar). • Mock-up 3D que muestre la caja en estantería y en vista detalle. • Recomendaciones de materiales y acabados aptos para contacto indirecto con alimentos. Valoraremos tu experiencia previa en packaging alimentario, dominio de Illustrator o herramientas equivalentes y conocimiento de procesos de impresión offset/digital. Al entregar, incluye breves instrucciones de impresi&o...
+
+Renderización 3D Adobe Illustrator Adobe Photoshop Identidad corporativa Diseño gráfico Diseño de logotipos Diseño de Empaques Photoshop
+	
+€68 Oferta promedio
+76 ofertas
+Sitio Informativo con Galería
+5 días left
+
+Quiero lanzar un sitio web informativo que se vea profesional y funcione sin complicaciones. El objetivo principal es ofrecer contenido claro sobre mi actividad y, al mismo tiempo, mostrar una galería de imágenes atractiva y un apartado sencillo con información de contacto. Alcance principal • Diseño y propuesta de la identidad visual del sitio: paleta de colores, tipografías y estructura de navegación. No tengo un diseño previo, así que necesito orientación completa desde el wireframe hasta el estilo final. • Desarrollo de las páginas clave: – Inicio con resumen de información relevante. – Sección de galería que permita cargar y visualizar imágenes de manera o...
+
+CMS CSS HTML PHP SEO Diseño Web Diseño de sitios web WordPress
+	
+€398 Oferta promedio
+228 ofertas
+Diseño MOGRT de Lower Third Animado
+5 días left  Verificado
+
+MOGRT animado para YouTube – Lower Third Catchup Busco un diseñador con experiencia en After Effects y Premiere Pro para crear un MOGRT reutilizable tipo Lower Third para presentar nombres, personajes y lugares. Requisitos: - Diseño moderno, limpio y profesional, inspirado en la identidad de Catchup. - Animación sutil y elegante; puede incluir una referencia conceptual al ketchup, sin salpicaduras ni estilo infantil. - Duración aproximada: 3 segundos, con entrada y salida animadas. - Fondo transparente. - Texto editable directamente desde Premiere Pro. - Posición modificable desde Premiere. - Debe adaptarse correctamente a textos cortos y largos. - Tomar como referencia de movimiento el texto “Moodcaster” del vídeo proporcionad...
+
+Adobe Premiere Pro After Effects Animación Diseño gráfico Gráficos en movimiento Edición de video Producción de video Servicios de video
+	
+€4 / hr Oferta promedio
+20 ofertas
+Anuncios Reels en Instagram
+5 días left
+
+Necesito lanzar una campaña de publicidad exclusivamente en redes sociales y he decidido concentrarme en Instagram. El formato elegido son anuncios en Reels, por lo que busco asistencia para cubrir todo el ciclo: desde la creación de la pieza creativa vertical que capte la atención en los primeros segundos, hasta la configuración de la campaña dentro del Administrador de Anuncios. Lo que espero recibir: • Guion o storyboard breve para cada Reel publicitario. • Diseño y edición del video (formato 9:16, máximo 30 s). • Configuración de segmentaciones, presupuesto diario y objetivos de conversión dentro de Instagram Ads. • Una guía rápida con sugerencias de optimización y m&ea...
+
+Publicidad After Effects Animación Creación de Contenido Anuncios en Instagram Marketing en redes sociales Edición de video Servicios de video
+	
+€18 / hr Oferta promedio
+34 ofertas
+Setter de Citas WhatsApp Español
+5 días left
+
+Manejo un flujo constante de leads y quiero que cada nuevo contacto reciba un mensaje de bienvenida inmediato y cordial en WhatsApp. Busco a alguien que, de forma 100 % remota, se encargue exclusivamente de enviar mensajes escritos (sin llamadas) para iniciar la conversación y, cuando corresponda, encaminar al prospecto a la siguiente etapa de nuestro proceso de ventas. Qué espero de tu parte: • Redactar y enviar mensajes de bienvenida en español, utilizando las plantillas y el tono de marca que compartiré. • Registrar cada interacción en mi hoja de seguimiento o CRM. • Escalar al equipo las consultas que no aparezcan en el guion. Lo que proporcionaré: • Script de mensajes y respuestas frecuentes. • Acceso al n&uacu...
+
+Redacción CRM Experiencia del Cliente Servicios al cliente Atención al cliente Ventas Gestión de Redes Sociales
+	
+€15 / hr Oferta promedio
+79 ofertas
+B2B Market Test Llamadas a Instaladores Solares
+5 días left
+
+Necesito una teleoperadora/teleoperador nativo español (España) para hacer una tanda de 10 llamadas B2B de sondeo comercial a instaladores de energía solar en España. Es un test de mercado, no venta agresiva: prefiero respuestas honestas y detalladas a cerrar ventas forzando la propuesta. Yo aporto: guion con preguntas de diagnóstico (a hacer ANTES de mencionar el precio), lista de 12 empresas verificadas con teléfono, y un formulario de resultados a rellenar por llamada con las respuestas literales de cada una (no un resumen tipo "8 de 10 no interesados"). Necesito que se identifique como llamada comercial al inicio y respete que cualquiera pueda pedir no ser contactado de nuevo. Presupuesto orientativo: 15-25€ por esta primera tand...
+
+Marketing B2B Cold Calling Servicios al cliente Generación de Prospectos Estudios de mercado Ventas Traductor de español Telemarketing
+	
+€8 Oferta promedio
+1 ofertas
+Crear intro animado de letras para YouTube
+5 días left  Verificado
+
+Crear una intro animación para YouTube Proyecto: MOGRT animado para títulos – Catchup Necesito crear un MOGRT en After Effects para usarlo en Premiere Pro. Será un Lower Third reutilizable para presentar personajes, nombres, lugares y otros elementos. Diseño - Estilo moderno, limpio y profesional. - Inspirado en la identidad de Catchup. - Puede tener una referencia sutil y conceptual al ketchup mediante formas, movimiento, textura o efecto líquido. - No queremos salpicaduras de ketchup evidentes ni un estilo infantil o caricaturesco. - El cliente indicó como referencia de movimiento el texto “Moodcaster”, alrededor del segundo 08 del vídeo proporcionado. Es solo inspiración; no hay que copiarlo. - Debe funcionar ...
+
+Adobe Premiere Pro After Effects Gráficos en movimiento Edición de video Producción de video Servicios de video Efectos Visuales
+	
+€4 / hr Oferta promedio
+23 ofertas
+Cartel Impactante Concienciación Social
+5 días left
+
+Necesito un diseño gráfico original para un cartel publicitario cuyo propósito principal sea crear conciencia sobre un tema específico. Quiero una pieza llamativa, creada con cuidado y dedicación, lista para imprimirse y utilizarse de inmediato dentro de las reglas de un concurso externo. Alcance • Formato vertical u horizontal en alta resolución (mínimo 300 dpi) apto para impresión en gran formato. • Estilo visual claro, persuasivo y coherente con el mensaje social que definiremos juntos. • Uso creativo de tipografía, color y composición para captar la atención del público. Entregables 1. Archivo editable (AI, PSD o similar) con capas organizadas. 2. PDF y PNG listos para impresi&o...
+
+Adobe Illustrator Adobe Photoshop Publicidad Diseño gráfico Illustrator Diseño de logotipos Photoshop Diseño de carteles
+	
+€271 Oferta promedio
+101 ofertas
+Especialista Meta Ads para Tienda Online
+5 días left
+
+Tengo una tienda online y, aunque contamos con una persona que genera el contenido orgánico, la gestión de la publicidad en Meta no está ofreciendo los resultados deseados. Mi prioridad es optimizar la Gestión de publicidad en Meta con un claro objetivo: Aumentar las ventas. Busco a un profesional con experiencia demostrable en campañas de Facebook Ads e Instagram Ads para e-commerce. Necesito que: 1. Audites las campañas actuales y detectes por qué no convierten. 2. Diseñes una estrategia de anuncios orientada a venta directa de joyería: públicos, creatividades, copy y funnel. 3. Establezcas un plan de pruebas A/B y optimización continua basado en ROAS. 4. Entregues un cronograma de trabajo, repor...
+
+Pruebas A/B Publicidad Analytics Marketing de Contenidos Estrategia de Contenidos Optimización de la Tasa de Conversión Redacción Marketing Digital Anuncios en Facebook Anuncios en Instagram Empleo local
+LOCAL
+	
+€353 Oferta promedio
+49 ofertas
+Mostrando 1 a 50 de 5,000 participaciones
+Precios mostrados en EUR
+Resultados por página
+20
+50
+75
+100
+ 
+ 
+1
+ 
+2
+ 
+3
+ 
+ 
+¿Necesitas contratar a un freelancer para un trabajo?
+
+Registrarse es gratis, escribe lo que necesitas y recibe cotizaciones gratis en segundos.
+
+Ingresa aquí la descripción de tu proyecto
+Publica un proyecto
+Español - Spain
+Ayuda y Soporte
+Accesibilidad
+Freelancer
+Categorías
+Proyectos
+Concursos
+Freelancers
+Empresa
+Membresía
+Programa de Freelancers Preferentes
+Gestión de proyectos
+Empleos locales
+Foto en cualquier lado
+Galería
+API para desarrolladores
+Sobre Nosotros
+¿Quiénes somos?
+¿Cómo funciona?
+Seguridad
+Inversores
+Mapa del sitio
+Historias
+Novedades
+Equipo
+Premios
+Comunicados de prensa
+Empleos
+Términos
+Política de privacidad
+Términos y condiciones
+Política de derechos de autor
+Código de conducta
+Cargos y Tarifas
+Aplicaciones
+90,150,846
+Usuarios registrados
+25,860,979
+Trabajos publicados en total 
+
+Freelancer ® is a registered Trademark of Freelancer Technology Pty Limited (ACN 142 189 759)
+
+Copyright © 2026 Freelancer Technology Pty Limited (ACN 142 189 759)
+
+Utilizamos tecnologías, como cookies, para personalizar contenido, ofrecer funciones a través de terceros y analizar el tráfico hacia el sitio. También compartimos información acerca de tu uso de nuestro sitio con nuestros socios de redes sociales, publicidad y analítica de confianza. Ver los detalles.
+
+ 

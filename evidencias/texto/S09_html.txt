@@ -1,0 +1,357 @@
+TEXTO EXTRAÍDO DEL CÓDIGO HTML (incluye contenido oculto en desplegables). Origen: html/S09.html
+
+FAQ
+Consentimiento
+Detalles
+[#IABV2SETTINGS#]
+Acerca de las cookies
+Esta página web usa cookies
+Las cookies de este sitio web se usan para personalizar el contenido y los anuncios, ofrecer funciones de redes sociales y analizar el tráfico. Además, compartimos información sobre el uso que haga del sitio web con nuestros partners de redes sociales, publicidad y análisis web, quienes pueden combinarla con otra información que les haya proporcionado o que hayan recopilado a partir del uso que haya hecho de sus servicios.
+[#DSR_FORM_URL_TEXT#]
+[#GPC_BANNER_ICON#]
+[#GPC_TOAST_TEXT#]
+Selección de consentimiento Necesarias
+Preferencias
+Estadística
+Marketing
+Mostrar detalles
+Detalles
+Necesarias 22
+Las cookies necesarias ayudan a hacer una página web utilizable activando funciones básicas como la navegación en la página y el acceso a áreas seguras de la página web. La página web no puede funcionar adecuadamente sin estas cookies.
+Cloudflare 1
+Más información sobre este proveedor cf.turnstile.u Esta cookie se utiliza para distinguir entre humanos y bots. Duración máxima de almacenamiento : Persistente Tipo : Almacenamiento Local HTML
+Cookiebot 1
+Más información sobre este proveedor CookieConsent Almacena el estado de consentimiento de cookies del usuario para el dominio actual Duración máxima de almacenamiento : 1 año Tipo : Cookie HTTP
+Google 1
+Más información sobre este proveedor Algunos de los datos recopilados por este proveedor se utilizan con fines de personalización, así como para medir la eficacia de la publicidad. El proveedor puede utilizar las direcciones IP para medición y personalización de anuncios.
+test_cookie Utilizada para comprobar si el navegador del usuario admite cookies. Duración máxima de almacenamiento : 1 día Tipo : Cookie HTTP
+HubSpot 1
+Más información sobre este proveedor cookietest Esta cookie se utiliza para determinar si el visitante ha aceptado la casilla de autorización de uso de cookies. Duración máxima de almacenamiento : Sesión Tipo : Cookie HTTP
+LinkedIn 2
+Más información sobre este proveedor bcookie Utilizada para detectar spam y mejorar la seguridad de la web. Duración máxima de almacenamiento : 1 año Tipo : Cookie HTTP
+li_gc Almacena el estado de consentimiento de cookies del usuario para el dominio actual Duración máxima de almacenamiento : 180 días Tipo : Cookie HTTP
+demo.arcade.software 1
+sentry-offline#queue Utilizada para detectar errores potenciales en el inicio de sesión en las funciones de terceras partes provistas por terceras partes en la web. Duración máxima de almacenamiento : Persistente Tipo : IndexedDB
+hs-analytics.net hs-banner.com hs-sites-eu1.com hubspotusercontent.com hubspotusercontent-eu1.net linkedin.com vimeo.com
+13
+__cf_bm [x13] Esta cookie se utiliza para distinguir entre humanos y bots. Esto es beneficioso para la web con el objeto de elaborar informes válidos sobre el uso de su web. Duración máxima de almacenamiento : 1 día Tipo : Cookie HTTP
+www.secretview.io 2
+_cfuvid Esta cookie es una parte de los servicios provistos por Cloudflare – Incluyendo el equilibrio de carga, entrega del contenido de la web y conexión al servidor DNS para operadores de la web. Duración máxima de almacenamiento : Sesión Tipo : Cookie HTTP
+SESS# Conserva los estados de los usuarios en todas las peticiones de la página. Duración máxima de almacenamiento : Sesión Tipo : Cookie HTTP
+Preferencias 1
+Las cookies de preferencias permiten a la página web recordar información que cambia la forma en que la página se comporta o el aspecto que tiene, como su idioma preferido o la región en la que usted se encuentra.
+LinkedIn 1
+Más información sobre este proveedor lidc Registra que grupo de servidores está sirviendo al visitante. Esto se utiliza en relación con el equilibrio de carga para optimizar la experiencia del usuario. Duración máxima de almacenamiento : 1 día Tipo : Cookie HTTP
+Estadística 20
+Las cookies estadísticas ayudan a los propietarios de páginas web a comprender cómo interactúan los visitantes con las páginas web reuniendo y proporcionando información de forma anónima.
+Amazon 1
+Más información sobre este proveedor ajs_anonymous_id Esta cookie se utiliza para contar las veces que un sitio web ha sido visitado por diferentes visitantes. Esto se consigue asignando un ID aleatorio al visitante, para evitar el registro doble del visitante. Duración máxima de almacenamiento : Persistente Tipo : Almacenamiento Local HTML
+Embed.ly 1
+Más información sobre este proveedor orionV3#identity Se usa para rastrear la interacción del usuario con el contenido integrado. Duración máxima de almacenamiento : Persistente Tipo : IndexedDB
+HubSpot 4
+Más información sobre este proveedor __hssc Identifica si los datos del navegador necesitan ser actualizados. Duración máxima de almacenamiento : 1 día Tipo : Cookie HTTP
+__hssrc Utilizada para reconocer el navegador del visitante en su reentrada en la web. Duración máxima de almacenamiento : Sesión Tipo : Cookie HTTP
+__hstc Establece un identificador para la sesión. Esto permite a la web obtener datos del comportamiento del visitante con propósitos estadísticos. Duración máxima de almacenamiento : 180 días Tipo : Cookie HTTP
+hubspotutk Establece un identificador para la sesión. Esto permite a la web obtener datos del comportamiento del visitante con propósitos estadísticos. Duración máxima de almacenamiento : 180 días Tipo : Cookie HTTP
+TWIPLA 1
+Más información sobre este proveedor visa_1_# Registra datos estadísticos del comportamiento del visitante en la web. Esto se utiliza para análisis internos por el operador de la web. Duración máxima de almacenamiento : Sesión Tipo : Almacenamiento Local HTML
+TikTok 1
+Más información sobre este proveedor _tt_enable_cookie Utilizada por la red social TikTok para rastrear el uso de servicios incrustados. Duración máxima de almacenamiento : 1 año Tipo : Cookie HTTP
+Vimeo 1
+Más información sobre este proveedor vuid Recopila datos sobre las visitas del usuario al sitio web, como qué páginas han sido leídas. Duración máxima de almacenamiento : 2 años Tipo : Cookie HTTP
+cdn.amplitude.com 5
+AMP_unsent_# Registra datos estadísticos del comportamiento del visitante en la web. Esto se utiliza para análisis internos por el operador de la web. Duración máxima de almacenamiento : Persistente Tipo : Almacenamiento Local HTML
+AMP_# Registra datos estadísticos del comportamiento del visitante en la web. Esto se utiliza para análisis internos por el operador de la web. Duración máxima de almacenamiento : 1 año Tipo : Cookie HTTP
+AMP_MKTG_# Registra datos estadísticos del comportamiento del visitante en la web. Esto se utiliza para análisis internos por el operador de la web. Duración máxima de almacenamiento : 1 año Tipo : Cookie HTTP
+AMP_TLDTEST Registra datos estadísticos del comportamiento del visitante en la web. Esto se utiliza para análisis internos por el operador de la web. Duración máxima de almacenamiento : Sesión Tipo : Cookie HTTP
+AMP_TEST Registra datos estadísticos del comportamiento del visitante en la web. Esto se utiliza para análisis internos por el operador de la web. Duración máxima de almacenamiento : Sesión Tipo : Cookie HTTP
+demo.arcade.software 1
+ajs_anonymous_id Esta cookie se utiliza para identificar a un visitante específico. Esta información sirve para identificar el número de visitantes específicos en un sitio web. Duración máxima de almacenamiento : 1 año Tipo : Cookie HTTP
+sc-static.net 2
+u_scsid Registra datos del comportamiento del visitante en la web. Esto se utiliza para el análisis interno y la optimización de la web. Duración máxima de almacenamiento : Sesión Tipo : Almacenamiento Local HTML
+X-AB Esta cookie se utiliza por el operador de la web en relación con un análisis de múltiples variantes. Esta herramienta se utiliza para cambiar o combinar el contenido de la web. Esto permite a la web encontrar la mejor variación/edición de la web. Duración máxima de almacenamiento : 1 día Tipo : Cookie HTTP
+www.secretview.io 3
+_ga Se utiliza para enviar datos a Google Analytics sobre el dispositivo del visitante y su comportamiento. Rastrea al visitante a través de dispositivos y canales de marketing. Duración máxima de almacenamiento : 2 años Tipo : Cookie HTTP
+_ga_# Se utiliza para enviar datos a Google Analytics sobre el dispositivo del visitante y su comportamiento. Rastrea al visitante a través de dispositivos y canales de marketing. Duración máxima de almacenamiento : 2 años Tipo : Cookie HTTP
+hs-cta-interactions#cta Recopila estadísticas sobre las visitas del usuario al sitio web, como el número de visitas, el tiempo medio pasado en el sitio web y qué páginas se han leído. Duración máxima de almacenamiento : Persistente Tipo : IndexedDB
+Marketing 49
+Las cookies de marketing se utilizan para rastrear a los visitantes en las páginas web. La intención es mostrar anuncios relevantes y atractivos para el usuario individual, y por lo tanto, más valiosos para los editores y terceros anunciantes.
+Meta Platforms, Inc. 3
+Más información sobre este proveedor lastExternalReferrer Detecta cómo el usuario encontró la página web al registrar su última dirección URL. Duración máxima de almacenamiento : Persistente Tipo : Almacenamiento Local HTML
+lastExternalReferrerTime Detecta cómo el usuario encontró la página web al registrar su última dirección URL. Duración máxima de almacenamiento : Persistente Tipo : Almacenamiento Local HTML
+_fbp Utilizada por Facebook para proporcionar una serie de productos publicitarios como pujas en tiempo real de terceros anunciantes. Duración máxima de almacenamiento : 3 meses Tipo : Cookie HTTP
+Amazon 1
+Más información sobre este proveedor ajs_user_id Recoge datos de las preferencias y el comportamiento del usuario en la web - Esta información se utiliza para producir contenidos y publicidad más relevantes para un usuario concreto. Duración máxima de almacenamiento : Persistente Tipo : Almacenamiento Local HTML
+Embed.ly 4
+Más información sobre este proveedor picox#events Se usa para rastrear la interacción del usuario con el contenido integrado. Duración máxima de almacenamiento : Persistente Tipo : IndexedDB
+LOCAL_STORAGE_ID_PICOX_ID Se usa para rastrear la interacción del usuario con el contenido integrado. Duración máxima de almacenamiento : Persistente Tipo : Almacenamiento Local HTML
+LOCAL_STORAGE_ID_VIMEO_PLAYER Se usa para rastrear la interacción del usuario con el contenido integrado. Duración máxima de almacenamiento : Persistente Tipo : Almacenamiento Local HTML
+PLAYER_PICOX_SAMPLING_SEED Se usa para rastrear la interacción del usuario con el contenido integrado. Duración máxima de almacenamiento : Persistente Tipo : Almacenamiento Local HTML
+Google 4
+Más información sobre este proveedor Algunos de los datos recopilados por este proveedor se utilizan con fines de personalización, así como para medir la eficacia de la publicidad. El proveedor puede utilizar las direcciones IP para medición y personalización de anuncios.
+ads/ga-audiences Utilizada por Google AdWords para reconectar con visitantes que tienen posibilidades de convertirse en clientes, se basa en el comportamiento online del cliente a través de las webs. Duración máxima de almacenamiento : Sesión Tipo : Píxel de Seguimiento
+pagead/1p-user-list/# Utilizada para rastrear si el visitante ha mostrado un interés específico em productos o eventos a través de múltiples webs y detectar como el visitante navega entre webs - Esto se utiliza para la medida de los esfuerzos publicitarios y facilitar la tasa de emisión entre sitios. Duración máxima de almacenamiento : Sesión Tipo : Píxel de Seguimiento
+ccm/conversion/956042889/ Pendiente Duración máxima de almacenamiento : Sesión Tipo : Píxel de Seguimiento
+_gcl_au Se emplea para medir la eficiencia de los esfuerzos publicitarios de una página web, mediante la recopilación de datos de la tasa de conversión de los anuncios de la web a lo largo de distintos sitios web. Duración máxima de almacenamiento : 3 meses Tipo : Cookie HTTP
+HubSpot 1
+Más información sobre este proveedor __ptq.gif Sends data to the marketing platform Hubspot about the visitor's device and behaviour. Tracks the visitor across devices and marketing channels. Duración máxima de almacenamiento : Sesión Tipo : Píxel de Seguimiento
+Liveintent 1
+Más información sobre este proveedor lidid Recoge datos del comportamiento y la interacción del visitante - Esto se utiliza para hacer más relevante la publicidad en la web. La cookie también permite a la web detectar cualquier referencia de otras webs. Duración máxima de almacenamiento : Sesión Tipo : Cookie HTTP
+Snap Inc. 2
+Más información sobre este proveedor sc_at Utilizada por Snapchat para implementar contenido publicitario en la web – Esta cookie detecta la eficiencia de los anuncios y recoge los datos del visitante para una futura segmentación del visitante. Duración máxima de almacenamiento : 1 año Tipo : Cookie HTTP
+p Utilizada para rastrear a los visitantes en las múltiples webs para presentar publicidad relevante basada en las preferencias del visitante. Duración máxima de almacenamiento : Sesión Tipo : Píxel de Seguimiento
+TikTok 7
+Más información sobre este proveedor tt_appInfo Utilizada por la red social TikTok para rastrear el uso de servicios incrustados. Duración máxima de almacenamiento : Sesión Tipo : Almacenamiento Local HTML
+tt_pixel_session_index Utilizada por la red social TikTok para rastrear el uso de servicios incrustados. Duración máxima de almacenamiento : Sesión Tipo : Almacenamiento Local HTML
+tt_sessionId Utilizada por la red social TikTok para rastrear el uso de servicios incrustados. Duración máxima de almacenamiento : Sesión Tipo : Almacenamiento Local HTML
+_ttp [x2] Utilizada por la red social TikTok para rastrear el uso de servicios incrustados. Duración máxima de almacenamiento : 1 año Tipo : Cookie HTTP
+ttcsid Utilizada para rastrear a los visitantes en las múltiples webs para presentar publicidad relevante basada en las preferencias del visitante. Duración máxima de almacenamiento : 1 año Tipo : Cookie HTTP
+ttcsid_# Rastrea el índice de conversión entre el usuario y los banners publicitarios de la web – Esto sirve para optimizar la relevancia de los anuncios de la web. Duración máxima de almacenamiento : 1 año Tipo : Cookie HTTP
+YouTube 12
+Más información sobre este proveedor __Secure-ROLLOUT_TOKEN Se usa para rastrear la interacción del usuario con el contenido integrado. Duración máxima de almacenamiento : 180 días Tipo : Cookie HTTP
+__Secure-YEC Registra las preferencias del reproductor de vídeo del usuario al ver vídeos incrustados de YouTube Duración máxima de almacenamiento : Sesión Tipo : Cookie HTTP
+__Secure-YNID Se usa para rastrear la interacción del usuario con el contenido integrado. Duración máxima de almacenamiento : 180 días Tipo : Cookie HTTP
+LAST_RESULT_ENTRY_KEY Se usa para rastrear la interacción del usuario con el contenido integrado. Duración máxima de almacenamiento : Sesión Tipo : Cookie HTTP
+LogsDatabaseV2:V#||LogsRequestsStore Se usa para rastrear la interacción del usuario con el contenido integrado. Duración máxima de almacenamiento : Persistente Tipo : IndexedDB
+ServiceWorkerLogsDatabase#SWHealthLog Necesaria para la implementación y funcionabilidad del contenido de video de YouTube en la web. Duración máxima de almacenamiento : Persistente Tipo : IndexedDB
+TESTCOOKIESENABLED Se usa para rastrear la interacción del usuario con el contenido integrado. Duración máxima de almacenamiento : 1 día Tipo : Cookie HTTP
+VISITOR_INFO1_LIVE Intenta calcular el ancho de banda del usuario en páginas con vídeos de YouTube integrados. Duración máxima de almacenamiento : 180 días Tipo : Cookie HTTP
+YSC Registra una identificación única para mantener estadísticas de qué vídeos de YouTube ha visto el usuario. Duración máxima de almacenamiento : Sesión Tipo : Cookie HTTP
+yt-icons-last-purged Necesaria para la implementación y funcionabilidad del contenido de video de YouTube en la web. Duración máxima de almacenamiento : Persistente Tipo : Almacenamiento Local HTML
+ytidb::LAST_RESULT_ENTRY_KEY Se usa para rastrear la interacción del usuario con el contenido integrado. Duración máxima de almacenamiento : Persistente Tipo : Almacenamiento Local HTML
+YtIdbMeta#databases Se usa para rastrear la interacción del usuario con el contenido integrado. Duración máxima de almacenamiento : Persistente Tipo : IndexedDB
+cdn.vector.co 3
+_li_duid Recoge información del comportamiento del visitante múltiples webs. Esta información se usa en la web para optimizar la relevancia de la publicidad. Duración máxima de almacenamiento : Persistente Tipo : Almacenamiento Local HTML
+_lc2_fpi Se usa por la web para registrar el comportamiento del usuario y su navegación en la web - La cookie registra cualquier interacción con campañas activas en la web. Esto se utiliza para optimizar la publicidad y para una reorientación eficiente. Duración máxima de almacenamiento : 2 años Tipo : Cookie HTTP
+_li_dcdm_c Se usa por la web para registrar el comportamiento del usuario y su navegación en la web - La cookie registra cualquier interacción con campañas activas en la web. Esto se utiliza para optimizar la publicidad y para una reorientación eficiente. Duración máxima de almacenamiento : Sesión Tipo : Cookie HTTP
+demo.arcade.software 3
+__tld__ [x2] Utilizada para rastrear a los visitantes en las múltiples webs para presentar publicidad relevante basada en las preferencias del visitante. Duración máxima de almacenamiento : Sesión Tipo : Cookie HTTP
+ajs_user_id Esta cookie se utiliza para recoger datos sobre el comportamiento del visitante en el sitio web. Esta información se puede utilizar para ceder el visitante a un segmento de visitante en base a preferencias comunes. Duración máxima de almacenamiento : Sesión Tipo : Cookie HTTP
+sc-static.net 7
+u_sclid Establece un identificar único para el visitante que permite a anunciantes externos (terceras partes) dirigirse al visitante con publicidad relevante. Este servicio combinado está provisto por centros de publicidad, que facilitan ofertas en tiempo real a los anunciantes. Duración máxima de almacenamiento : Persistente Tipo : Almacenamiento Local HTML
+u_sclid_r Establece un identificar único para el visitante que permite a anunciantes externos (terceras partes) dirigirse al visitante con publicidad relevante. Este servicio combinado está provisto por centros de publicidad, que facilitan ofertas en tiempo real a los anunciantes. Duración máxima de almacenamiento : Persistente Tipo : Almacenamiento Local HTML
+u_scsid_r Establece un identificar único para el visitante que permite a anunciantes externos (terceras partes) dirigirse al visitante con publicidad relevante. Este servicio combinado está provisto por centros de publicidad, que facilitan ofertas en tiempo real a los anunciantes. Duración máxima de almacenamiento : Sesión Tipo : Almacenamiento Local HTML
+_schn1 Establece un identificar único para el visitante que permite a anunciantes externos (terceras partes) dirigirse al visitante con publicidad relevante. Este servicio combinado está provisto por centros de publicidad, que facilitan ofertas en tiempo real a los anunciantes. Duración máxima de almacenamiento : 1 día Tipo : Cookie HTTP
+_scid Establece un identificar único para el visitante que permite a anunciantes externos (terceras partes) dirigirse al visitante con publicidad relevante. Este servicio combinado está provisto por centros de publicidad, que facilitan ofertas en tiempo real a los anunciantes. Duración máxima de almacenamiento : 13 meses Tipo : Cookie HTTP
+_scid_r Establece un identificar único para el visitante que permite a anunciantes externos (terceras partes) dirigirse al visitante con publicidad relevante. Este servicio combinado está provisto por centros de publicidad, que facilitan ofertas en tiempo real a los anunciantes. Duración máxima de almacenamiento : 13 meses Tipo : Cookie HTTP
+_screload Utilizada por Snapchat para implementar contenido publicitario en la web – Esta cookie detecta la eficiencia de los anuncios y recoge los datos del visitante para una futura segmentación del visitante. Duración máxima de almacenamiento : Sesión Tipo : Cookie HTTP
+www.secretview.io 1
+_gcl_ls Rastrea el índice de conversión entre el usuario y los banners publicitarios de la web – Esto sirve para optimizar la relevancia de los anuncios de la web. Duración máxima de almacenamiento : Persistente Tipo : Almacenamiento Local HTML
+No clasificados 13
+Las cookies no clasificadas son cookies para las que todavía estamos en proceso de clasificar, junto con los proveedores de cookies individuales.
+TikTok 1
+Más información sobre este proveedor tt_pixel_is_enrich_ipv6_triggered_by_enrich_am Pendiente Duración máxima de almacenamiento : Sesión Tipo : Almacenamiento Local HTML
+api.vector.co 1
+pixel/phoenix/rp/p Pendiente Duración máxima de almacenamiento : Sesión Tipo : Píxel de Seguimiento
+cdn.jsdelivr.net 8
+664a49a6e7ad44618478764a#pages Pendiente Duración máxima de almacenamiento : Persistente Tipo : IndexedDB
+fs-consent-ad_personalization Pendiente Duración máxima de almacenamiento : 4 meses Tipo : Cookie HTTP
+fs-consent-ad_storage Pendiente Duración máxima de almacenamiento : 4 meses Tipo : Cookie HTTP
+fs-consent-ad_user_data Pendiente Duración máxima de almacenamiento : 4 meses Tipo : Cookie HTTP
+fs-consent-analytics_storage Pendiente Duración máxima de almacenamiento : 4 meses Tipo : Cookie HTTP
+fs-consent-functionality_storage Pendiente Duración máxima de almacenamiento : 4 meses Tipo : Cookie HTTP
+fs-consent-personalization_storage Pendiente Duración máxima de almacenamiento : 4 meses Tipo : Cookie HTTP
+fs-consent-security_storage Pendiente Duración máxima de almacenamiento : 4 meses Tipo : Cookie HTTP
+cdn.vector.co 1
+_lc2_fpi_js Pendiente Duración máxima de almacenamiento : Sesión Tipo : Cookie HTTP
+www.secretview.io 2
+popupLastShown Pendiente Duración máxima de almacenamiento : Persistente Tipo : Almacenamiento Local HTML
+utm-source Pendiente Duración máxima de almacenamiento : Persistente Tipo : Almacenamiento Local HTML
+Consentimiento entre dominios [#BULK_CONSENT_DOMAINS_COUNT#] [#BULK_CONSENT_TITLE#]
+Lista de dominios a los que se aplica tu consentimiento: [#BULK_CONSENT_DOMAINS#]
+Declaración de cookies actualizada por última vez el 10/9/26 por Cookiebot
+[#IABV2_TITLE#]
+[#IABV2_BODY_INTRO#]
+[#IABV2_BODY_LEGITIMATE_INTEREST_INTRO#]
+[#IABV2_BODY_PREFERENCE_INTRO#]
+[#IABV2_LABEL_PURPOSES#]
+[#IABV2_BODY_PURPOSES_INTRO#]
+[#IABV2_BODY_PURPOSES#]
+[#IABV2_LABEL_FEATURES#]
+[#IABV2_BODY_FEATURES_INTRO#]
+[#IABV2_BODY_FEATURES#]
+[#IABV2_LABEL_PARTNERS#]
+[#IABV2_BODY_PARTNERS_INTRO#]
+[#IABV2_BODY_PARTNERS#]
+Acerca de las cookies
+Las cookies son pequeños archivos de texto que las páginas web pueden utilizar para hacer más eficiente la experiencia del usuario. La ley afirma que podemos almacenar cookies en su dispositivo si son estrictamente necesarias para el funcionamiento de esta página. Para todos los demás tipos de cookies necesitamos su permiso. Esta página utiliza tipos diferentes de cookies. Algunas cookies son colocadas por servicios de terceros que aparecen en nuestras páginas. En cualquier momento puede cambiar o retirar su consentimiento desde la Declaración de cookies en nuestro sitio web. Obtenga más información sobre quiénes somos, cómo puede contactarnos y cómo procesamos los datos personales en nuestra Política de privacidad. Al contactarnos respecto a su consentimiento, por favor, indique el ID y la fecha de su consentimiento.
+No vender ni compartir mi información personal
+Permitir todas
+Personalizar
+Permitir la selección
+Denegar
+Soluciones
+Mystery shopping Para el sector minorista Para hostelería Auditorías internas Investigación de compliance
+Software
+Dashboard Programa de incentivos
+Comunidad
+Sobre nuestra comunidad Conviértete en mystery shopper
+Precios Recursos
+Blog Casos de clientes Preguntas Frecuentes Calculadora de ROI
+Sobre nosotros
+Acerca de
+Sobre nosotros Carrera Contactar
+Iniciar sesión Solicitar una demo
+Iniciar sesión
+ES
+EN
+NL
+FR
+DE
+ES
+IT
+PREGUNTAS MÁS FRECUENTES
+¿No has encontrado la respuesta a tu pregunta? Ponte en contacto con nosotros y estaremos encantados de ayudarte más.
+General Para compradores misteriosos Para grandes organizaciones Para pymes Tablero Nuestra comunidad Fijación
+General
+¿Quiénes son tus compradores misteriosos?
+Mystery shopping (also known as customer experience research) is a research method where customers from the target group visit a store or webshop and evaluate their experience. Mystery shoppers, if possible, make a purchase and fill out a detailed questionnaire after the visit, assessing the customer experience.
+¿Cómo se seleccionan los compradores misteriosos?
+Our mystery shoppers are real customers from the target group and service area, not professionals. We have a community of over 75,000 mystery shoppers, primarily in the Benelux, but active in more than 20 countries worldwide.    They receive, if possible, shopping credit to spend directly in a store or webshop and fill out a detailed questionnaire after the visit. This way, they only sign up for brands they are interested in. Organizations receive authentic feedback from their target group about all aspects of the customer journey.
+¿Qué significa el precio por visita?
+Esta es la tarifa que un cliente paga a Secret View.
+¿Qué es el crédito para tiendas?
+Para grandes organizaciones (más de 5 ubicaciones): Entre 27,50 € y 59,99 € por cliente misterioso (sin incluir el crédito de compra). La investigación es totalmente personalizada y el precio depende del número de ubicaciones, la frecuencia de las visitas, la complejidad del estudio y cualquier acuerdo adicional. Solicita una demostración o contáctanos para obtener un presupuesto a medida.   Para pymes (de 1 a 5 ubicaciones): Entre 29,99 € y 49,99 € por cliente misterioso (sin incluir el crédito de compra). El precio varía según la extensión del cuestionario predefinido. No tienes compromiso de suscripción y solo pagas por cada tarea completada.
+¿Cómo se verifican las compras de los compradores misteriosos?
+El crédito de la tienda siempre debe gastarse en su totalidad para que se devuelva como ingreso. Por eso pedimos a los compradores misteriosos que suban sus recibos al cuestionario. Esto te da una visión clara de sus compras.
+¿Cómo garantizan la privacidad de mis empleados y clientes?
+Shopping credit is the amount that mystery shoppers receive from organizations to spend directly in a store or webshop. This way, they only sign up for brands they are interested in and automatically belong to the target group.    The shopping credit returns as revenue at the cash register, and mystery shoppers spend an average of 30% more than their credit. In some cases, we work with a financial compensation without purchase, for example, during advisory conversations or services.
+¿También puedo realizar una investigación sobre compras misteriosas en línea?
+¡Absolutamente! Realizamos tareas en línea para varios clientes, incluidas las entregas de comestibles, comidas y bebidas alcohólicas. ¿Quiere obtener más información? ¡Reserva una demostración gratuita!
+In which countries are you active?
+We are active in more than 20 countries, with our largest community in the Benelux. For large organizations, we can easily scale to new markets. Mystery shopping for SMEs is currently only available in the Netherlands. Fewer than 6 locations but still interested in research abroad? Schedule a demo or contact us for the possibilities.
+Is there a trial period available?
+Yes! You can schedule a demo after which we start a free pilot where a number of locations are visited and you gain direct access to your personal dashboard. This way, you can experience how our dashboard works and what insights you receive.
+Compradores misteriosos
+¿Cómo puedo obtener una tarea?
+Crea una cuenta , inicia sesión en la plataforma y selecciona una tarea cerca de ti. Espera a que te confirmen que has sido seleccionado. Una vez aprobado, ¡lee detenidamente el resumen y completa la tarea en la fecha elegida! Además, hay tareas instantáneas que puedes realizar de forma inmediata. ¡Inicia sesión y comprueba si hay una disponible cerca de ti!
+¿Cuándo me pagarán?
+Depende de la asignación. Para la mayoría de las asignaciones de créditos para tiendas, se le paga por adelantado. Sin embargo, asegúrese de gastar el monto total.
+¿Por qué tengo que verificar mi identidad?
+Por varias razones. En primer lugar, debemos cumplir con leyes y reglamentos como el DAC7. Esto requiere que compartamos los detalles del pago con las autoridades fiscales, lo que significa que necesitamos verificar tu identidad. Esto no significa necesariamente que debas pagar impuestos por tus ganancias de Secret View. En la mayoría de los casos, tiene poco o ningún impacto en tu declaración de impuestos, pero depende de tu situación personal.
+Do I need experience to get started?
+No. You will always receive a briefing and a questionnaire, so you know exactly what to look for. If you can clearly describe situations and provide honest, constructive feedback, you’re already off to a great start.
+How quickly do I need to complete the questionnaire?
+Within 24 hours after your visit to the location. That way, everything is still fresh in your memory and we can share your feedback with the location as quickly as possible.
+When do I get paid?
+This varies per assignment: ‍ Assignments with shopping credit: you usually receive the shopping credit in advance and spend the full amount during your visit. ‍ Instant assignments: payment is made at the next payment moment, which is the first Monday after your assignment; it usually appears in your account within 1–2 days. ‍ Assignments with a financial compensation: payment is made once your questionnaire has been approved; it usually appears in your account within 1–2 days.
+How much do I earn per assignment?
+This varies per assignment. In the platform, you always see the reward in advance. For example, shopping credit to purchase a product or service, or a financial compensation. That way, you know exactly what to expect before you apply.
+Why do you do an ID check?
+For several reasons: - We must comply with laws and regulations (such as DAC7), which require identity verification. This does not automatically mean you have to pay tax; that depends on your personal situation. - You receive a reward for your assignment, and sometimes we need to be able to reclaim shopping credit if an assignment is not (properly) completed. - For compliance checks (alcohol/tobacco), we sometimes specifically look for 18- and 19-year-olds.
+Empresarial
+¿En qué países está activo?
+We are active in more than 20 countries, with our largest community in the Benelux. For large organizations, we can easily scale to new markets.
+What does a mystery shopping study cost?
+Between €27.50 and €59.99 per mystery shopper (excluding shopping credit). The research is fully customized, and the price depends on the number of locations, visit frequency, complexity of the research, and any additional agreements. Book a demo or contact us for a customized quote.
+¿En qué idiomas está disponible la investigación?
+Yes! You can schedule a demo after which we start a free pilot where a number of locations are visited and you gain direct access to your personal dashboard. This way, you can experience how our dashboard works and what insights you receive.
+Pequeña empresa
+How do I set up a mystery shopping study?
+Setting up a mystery shopping study is easy and takes about 15 minutes. Create an account here , choose a ready-made questionnaire, define your target audience, set the shop credit, and publish your assignment. Mystery shoppers from your selected audience can sign up immediately.
+What does a mystery shopping study cost?
+Between €29.99 and €49.99 per mystery shopper (excluding shopping credit). The price varies depending on the length of the ready-made questionnaire. You are not tied to a subscription and only pay per completed assignment.
+In which countries are you active?
+Mystery shopping for SMEs is currently only available in the Netherlands. Do you have fewer than 6 locations but are still interested in conducting research abroad? Schedule a demo or contact us to discuss the possibilities.
+Is a trial period available?
+Yes! Your first mystery shopper is free (you only pay the shop credit you choose). Create an account here , start your first study, and explore how the dashboard works and what insights you receive. After the first visit, you can pause the study at no cost or continue right away.
+Dashboard
+What do I see in the dashboard?
+You get a clear overview of how your customer journeys and processes are performing. With just a few clicks, you can zoom in from a management-level view to specific locations and questions, all the way down to the individual questionnaire answers filled in by mystery shoppers or auditors.
+How quickly do results appear in the dashboard?
+In most cases, results are available in the dashboard within 24 hours after the visit. This helps you follow up fast, make adjustments, and coach teams in a targeted way.
+How does segmentation work (and why is it so useful)?
+With segmentations, you create your own “layers” in the data, for example by region, district managers, store types, or other custom segments. This makes it easy to see what’s going well, where teams need support, and where training will have the biggest impact.
+What can I do with benchmarking?
+Benchmarking lets you compare locations or segments by research round, customer journey, category, or question. It’s a quick way to spot top performers and improvement areas without endless searching.
+What are rankings, and what do I use them for?
+Rankings show the highest and lowest scores across different levels (for example locations, regions, or questions). You can click through to the underlying answers, which is great for targeted coaching and also fun for positive competition, like a store challenge.
+Can I click through to qualitative feedback and examples?
+Yes. You can drill down to the qualitative answers from mystery shoppers (or auditors). These real examples are useful for training, coaching, and evaluations.
+Can I export results or connect to BI tools?
+Yes. You can easily export results to Excel and PDF. For larger organisations, there’s an API to integrate with BI systems like Tableau, SAP, and Power BI.
+Our community
+Who is in your mystery shopping community?
+Our community consists of over 65,000 real consumers. Not trained professionals, but people of all ages who go through your customer journey like real customers do.
+In which countries is your community active?
+The Secret View community is active in more than 20 countries, with a strong base in Europe. We match shoppers locally, so you get feedback that fits your region and target audience. Want to expand? We scale with you into other countries and build an approach together that delivers comparable, reliable insights everywhere.
+How do you ensure the quality and reliability of the feedback?
+Our mystery shoppers are 100% ID-verified, complete e-learnings, and build a reputation score. Every questionnaire also goes through AI-driven quality checks, so you can rely on consistent, actionable feedback.
+How do you make sure mystery shoppers match our target audience?
+We match per assignment based on target audience and region. Shoppers come from the area around the location, which makes the experience realistic and the feedback recognizable for your teams.
+Why don’t you work with professional mystery shoppers?
+Professional shoppers often visit locations all day and are more likely to stand out. That can create a biased view. With real consumers, you get feedback that aligns better with your target audience and customer journey.
+How do you select the right mystery shopper for an assignment?
+Mystery shoppers build a reputation score and profile as they complete assignments. We use these to select the best-fitting mystery shopper for each assignment, aligned with your target audience and location.
+Why do you work with shop credit?
+Where possible, we use shop credit instead of a financial payout. This encourages mystery shoppers to make a real purchase and choose assignments that genuinely fit them.
+Pricing
+What is the difference between Small Business and Enterprise?
+Small Business is self-service: you can set up a research yourself within 15 minutes, with no subscription, and you can stop at any time. Enterprise is tailored: you get personal guidance, onboarding, support in 5 languages, and it’s suitable for high volumes (6 to 500+ locations).
+What does “price per visit” mean?
+A visit is one mystery shopping assignment. With Small Business, you pay a fixed price per published assignment, based on the selected research frequency (weekly, biweekly, or monthly). With Enterprise, we create a custom price after the demo, depending on factors like number of locations, frequency, and complexity.
+Is there a subscription?
+No. With Small Business, there is no subscription and you can cancel at any time. Enterprise is a tailored solution with agreements based on your situation.
+Can I choose Enterprise (tailored) as a Small Business?
+Yes. If you want a tailored questionnaire, setup, or guidance, you can request a free demo even as a smaller business to see what fits best.
+How does payment work?
+With Small Business, you pay per round via direct debit. For Enterprise, we agree on invoicing with you.
+What is shop credit (and is it included in the price per visit)?
+In many cases, we reward mystery shoppers with shop credit. Shop credit is not included in the price per visit and is charged on top of it. This shop credit is spent in your location(s) and therefore returns as revenue at the register. The shop credit is based on the average receipt amount. In some situations, a financial reward without a purchase makes more sense, and that’s also possible.
+How do you verify mystery shoppers’ spending?
+Mystery shoppers upload the receipt in the questionnaire. This allows you to verify the purchase and see exactly what was bought.
+Mystery shopping impulsado por más de 75.000 consumidores reales. Diseñado para empresas de retail y hospitality con múltiples ubicaciones.
+Soluciones
+Mystery shopping
+For retail
+For hospitality
+Auditorías internas
+Investigación de compliance
+Precios
+Software y Comunidad
+Dashboard
+Programa de incentivos
+Spotlight
+Sobre nuestra comunidad
+Plataforma comunitaria
+Conviértete en mystery shopper
+Recursos
+Blog
+Casos de clientes
+FAQ
+Calculadora de ROI
+Sobre nosotros
+Sobre nosotros
+Carrera
+Contacto
+Declaración de privacidad
+Política de cookies
+Términos de la comunidad •
+Términos PYMES •
+DAC7 •
+Divulgación responsable •
+Ley de denunciantes
+Nieuwsbrief voor organisaties
+Ontvang inzichten, praktijkvoorbeelden en productupdates over mystery shopping en klantbelevingsonderzoek, voor retail- en horecaorganisaties.
+E-mail (zakelijk) *
+Inschrijven
+Before you go
+Book a demo and start with a free pilot
+Takes 30 seconds. We'll show you how it works and set up a free pilot across up to 5 of your locations if it's relevant.
+Full name*
+Company name*
+Job title*
+Business email*
+Request a demo ›
+We'll get back to you within one business day. No spam.
+Voordat je gaat
+Plan een demo en start met een gratis pilot
+Duurt 30 seconden. We laten zien hoe het werkt en starten gratis een pilot op tot 5 van jouw locaties als dat relevant is.
+Volledige naam*
+Bedrijfsnaam*
+Functietitel*
+Zakelijk e-mailadres*
+Vraag een demo aan ›
+We nemen binnen één werkdag contact met je op.
+Thank you
+We've received your request and will get back to you within one business day.

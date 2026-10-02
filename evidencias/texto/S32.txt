@@ -1,0 +1,158 @@
+URL: https://www.iberley.es/noticias/aepd-grabaciones-conversaciones-imagenes-trabajo-deben-justificarse-30585
+Capturado: 2026-10-01T05:46:01.539Z
+Estado HTTP: 200
+Título: AEPD: las grabaciones de conversaciones o imágenes en el trabajo deben justificarse - Iberley
+
+----- TEXTO DE LA PÁGINA -----
+
+Noticias
+MODO IA
+Y
+O
+NO
+PRÓXIMO
+
+Acerca de operadores lógicos
+
+910 606 406
+Planes y precios
+INICIO
+JURISPRUDENCIA
+LEGISLACIÓN
+RESOLUCIONES
+TEMAS
+FORMULARIOS
+PRÁCTICOS
+CONVENIOS
+SUBVENCIONES
+NOTICIAS
+REVISTA
+LIBROS
+LM
+0
+Inicio
+Noticias
+AEPD: las grabaciones de conversaciones o imágenes en el trabajo deben justificarse
+AEPD: las grabaciones de conversaciones o imágenes en el trabajo deben justificarse
+
+Pregunta a Uxia 
+
+settings
+Noticia
+
+Relacionados:
+
+Voces
+Jurisprudencia
+Prácticos
+Formularios
+Resoluciones
+Temas
+Legislación
+
+Tiempo de lectura: 6 min
+
+Materias: laboral
+
+Fecha: 03/11/2020
+
+Partiendo de que la AEPD está trabajando y hará pública en el primer trimestre del año entrante una Guía de relaciones laborales y privacidad, la Resolución PS/0067/2020 se ha convertido en una de las primeras respuesta de la Agencia abordando el tema de la privacidad de los trabajadores en su lugar de trabajo.
+
+En el fallo, dejando claro el incumplimiento de la ley, apercibe a la empresa y le obliga a solventar el problema que tiene de las grabaciones que se hacen en el seno de la misma con un protocolo de actuación definido, sobre la base de que el empresa ha de informar previamente a trabajadores y representantes sindicales para realizar cualquier medida o grabación visual o sonora en el centro de trabajo.
+
+Las empresas han de adaptar sus relaciones laborales a la nueva política de privacidad emanada del RGPD y la LOPDGD
+
+Los sistemas de videovigilancia con fines de control laboral se encuentran amparados en el art. 20.3 del Estatuto de los trabajadores:
+
+“El empresario podrá adoptar las medidas que estime más oportunas de vigilancia y control para verificar el cumplimiento por el trabajador de sus obligaciones y deberes laborales, guardando en su adopción y aplicación la consideración debida a su dignidad y teniendo en cuenta, en su caso, la capacidad real de los trabajadores con discapacidad.”.
+
+Con la entrada en vigor del RGPD y LOPDGDD se han modificado aspectos relevantes de la legislación española que influyen, de manera directa, sobre los derechos de los trabajadores en relación a la videovigilancia como se ve en el transcrito art. 89 LOPDGDD
+
+“Derecho a la intimidad frente al uso de dispositivos de videovigilancia y de grabación de sonidos en el lugar de trabajo
+
+“1. Los empleadores podrán tratar las imágenes obtenidas a través de sistemas de cámaras o videocámaras para el ejercicio de las funciones de control de los trabajadores o los empleados públicos previstas, respectivamente, en el artículo 20.3 del Estatuto de los Trabajadores y en la legislación de función pública, siempre que estas funciones se ejerzan dentro de su marco legal y con los límites inherentes al mismo. Los empleadores habrán de informar con carácter previo, y de forma expresa, clara y concisa, a los trabajadores o los empleados públicos y, en su caso, a sus representantes, acerca de esta medida.
+
+En el supuesto de que se haya captado la comisión flagrante de un acto ilícito por los trabajadores o los empleados públicos se entenderá cumplido el deber de informar cuando existiese al menos el dispositivo al que se refiere el artículo 22.4 de esta ley orgánica.
+
+2. En ningún caso se admitirá la instalación de sistemas de grabación de sonidos ni de videovigilancia en lugares destinados al descanso o esparcimiento de los trabajadores o los empleados públicos, tales como vestuarios, aseos, comedores y análogos.
+
+3. La utilización de sistemas similares a los referidos en los apartados anteriores para la grabación de sonidos en el lugar de trabajo se admitirá únicamente cuando resulten relevantes los riesgos para la seguridad de las instalaciones, bienes y personas derivados de la actividad que se desarrolle en el centro de trabajo y siempre respetando el principio de proporcionalidad, el de intervención mínima y las garantías previstas en los apartados anteriores. La supresión de los sonidos conservados por estos sistemas de grabación se realizará atendiendo a lo dispuesto en el apartado 3 del artículo 22 de esta ley.”
+
+El citado precepto aborda tema de la videovigilancia en el lugar de trabajo, permitiendo a los empleadores el tratamiento de las imágenes obtenidas, pero solo “para el ejercicio de las funciones de control de los trabajadores o los empleados públicos” previstas en la ley con los límites inherentes al mismo, prohibiendo la instalación de dichos dispositivos en lugares destinados al descanso o esparcimiento de los trabajadores o los empleados públicos “tales como vestuarios, aseos, comedores y análogos”.
+
+El uso requerirá la previa información, “expresa, clara y concisa”, a los trabajadores y, en su caso, a sus representantes.
+
+La ley prevé también el caso del descubrimiento casual de la “comisión flagrante de un acto ilícito por los trabajadores”, en cuyo caso “se entenderá cumplido el deber de informar cuando existiese al menos el dispositivo al que se refiere el art. 22.4 de esta Ley Orgánica”, es decir, a través de colocación de un dispositivo informativo en lugar suficientemente visible (el cartel de videovigilancia o dispositivo que cumpla los estándares previstos en la norma). Este cartel debe colocarse en un lugar visible e informar al menos de que se realizará tratamiento de las imágenes, la identidad del responsable, así como la posibilidad de ejercitar los derechos sobre las imágenes, principalmente de acceso, rectificación, limitación del tratamiento y supresión.
+
+Del mismo modo, la normativa veta la instalación de sistemas de grabación de sonidos y de videovigilancia en los lugares destinados al descanso de los trabajadores, tales como vestuarios, aseos y comedores.
+
+Por lo que hace referencia a los dispositivos de captación y grabación de sonidos, su utilización únicamente se admitirá cuando los riesgos resulten relevantes para la seguridad de las instalaciones, bienes y personas derivados de la actividad que se desarrolle en el centro de trabajo. En cualquier caso, siempre se deberá respetar los principios de proporcionalidad e intervención mínima.
+
+En la actualidad, el desarrollo de este bloque lo marca la posible afectación de la doctrina «flexibilizadora» sobre el cumplimiento del deber informativo del Tribunal Constitucional y del Tribunal Supremo por las nuevas exigencias del RGPD y la LOPDGDD, en aplicación de la necesidad, establecida por el art. 89 LOPDGDD, de información “previa, expresa, clara y concisa” acerca de la medida de videovigilancia para alcanzar el valor probatorio en caso de despido disciplinario.
+
+No obstante, este tema ya había sido objeto de desarrollo por parte de los Tribunales Europeos, Constitucional y Supremo, a través de sentencias con criterio dispar a lo largo del tiempo. Ante el control de una posible vulneración de derechos fundamentales, todos los Organismos coinciden en sus valoraciones en la necesidad empresarial de actuar conforme al principio de proporcionalidad, los criterios de intervención mínima e idoneidad, siendo su máxima expresión el juicio de proporcionalidad fijado por el Tribunal Constitucional siguiendo tres claves:
+
+Idoneidad. Debe tratarse de una medida idónea; debe servir para vigilar la actividad laboral y detectar un posible incumplimiento.
+Necesidad. Debe ser una medida necesaria; no debe existir otra medida menos lesiva para el trabajador.
+Proporcionalidad. Debe ser una medida proporcional; debe otorgar más beneficios a la empresa que perjuicios al trabajador.
+
+Videovigilancia y grabación de sonidos en el trabajo.
+
+FÓRMATE CON COLEX EN ESTA MATERIA. VER LIBROS RELACIONADOS.
+Mostrar relacionados
+
+Cargar más
+
+Suscripción Premium
+
+Herramientas de cálculo
+
+Calendarios laborales
+
+Jurisprudencia
+
+Legislación
+
+Resoluciones
+
+Temas
+
+LM
+
+Formularios
+
+Prácticos
+
+Convenios
+
+Subvenciones
+
+Noticias
+
+Marketing
+
+Revista
+
+Libros
+
+Tablas salariales
+
+Consultas jurídicas
+
+Quiénes somos
+
+Contacto
+
+Aviso legal
+
+Política de Privacidad
+
+Condiciones generales
+
+Revista Jurídica
+
+info@iberley.es
+
+910 606 406
+
+Atención al cliente
